@@ -1,0 +1,21 @@
+## Parks (Points) (Parks.geojson)
+The points in this layer represents the indicative Managed Areas of Parks which are under the purview of NParks.
+
+## NParks Parks and Nature Reserves (NParksParksandNatureReserves.geojson)
+The polygon in this layer represents the indicative Managed Areas of Parks which are currently under the purview of NParks. Includes the reserve boundary of Bukit Timah Nature Reserve, Central Catchment Nature Reserve, Labrador Nature Reserve and Sungei Buloh Wetland Reserve, and other parklands managed by NParks.
+
+
+## Park Connector Loop (ParkConnectorLoop.geojson)
+This dataset shows the indicative segments of the Park Connector Loop. The Park Connector Loop are islandwide network of linear open spaces around major residential areas, linking up parks and nature sites. An important part of Singapore's transformation into a City in a Garden, the Park Connector Loop brings you through the lush greenery and natural splendour of our island, as well as a wide range of exciting recreational activities.
+
+
+## Nature Ways (NatureWays.geojson)
+Nature Ways is the routes connecting between green spaces of rich biodiversity. The routes are planted with tiered and multi-layered stratifications of canopies and careful selection of biodiversity- attracting plants to attract and facilitate the movement of fauna such as birds and butterflies from point to point between the green nodes, bringing nature closer to people and vice-versa. 
+
+## Master Plan 2025 (No Sea) (MasterPlan2025PlanningAreaBoundaryNoSea.geojson)
+Indicative polygon of planning area boundary with sea area excluded. To facilitate urban planning, the Urban Redevelopment Authority (URA) divides Singapore into regions and planning areas. The Master Plan is a forward looking guiding plan for Singapore's development in the medium term over the next 10 to 15 years and the planning boundaries may not coincide with existing developments for some areas.
+>> Can be used to derive boundary of Singapore
+
+
+## Roads (OSM), Shapefile 
+Road network across the area: motorways, residential streets, service roads, footways, and trails. Useful for routing, accessibility analysis, and evacuation planning. Coverage reflects where volunteer mappers have been active. From OpenStreetMap, as Shapefile.​
